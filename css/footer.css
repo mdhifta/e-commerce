@@ -1,0 +1,27 @@
+.footerclas{
+  background-color: #333333;
+  height: 250px;
+}
+
+.about{
+  background-color: #333333;
+  height: 240px;
+  width: 600px;
+  margin-left: 250px;
+}
+
+.gmbrig{
+  width: 30px;
+  height: 30px;
+  top: 2px;
+}
+
+h4{
+  color: white;
+}
+
+.no{
+  float: right;
+  margin-right: 427px;
+  color: white;
+}

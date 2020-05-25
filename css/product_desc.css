@@ -1,0 +1,50 @@
+.large-4{
+  width: 250px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+	overflow: hidden;
+  padding: 40px;
+  border-color: black;
+}
+
+.large-4 h3{
+  text-align: center;
+  background-color: #2CBBBB;
+  text-transform: uppercase;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: white;
+  font-size: 18px;
+  font-weight: 100;
+  padding: 10px;
+  border-top-left-radius: 10px;
+  margin: -30px -30px 30px -30px;
+}
+
+.large-4 img{
+  width: 400px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
